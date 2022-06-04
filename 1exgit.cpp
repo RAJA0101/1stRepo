@@ -1,7 +1,7 @@
 #include <iostream.h>
-using namespace std;
 int main()
 {
-	cout<<" 1'st git commit program "<<endl;
+	dtd::cout<<" 1'st git commit program "<<endl;
+	std::cout<<" im Rocket Raja..its my own "<<endl;
 	return 0;
 }
